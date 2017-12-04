@@ -1,0 +1,3 @@
+accessing
+allInactiveHalts
+	^ allInactiveHalts

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "ThomasDupriez 11/28/2017 10:08",
+	"super" : "BreakpointIconStyler",
+	"category" : "HaltManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ActiveBreakpointIconStyler",
+	"type" : "normal"
+}

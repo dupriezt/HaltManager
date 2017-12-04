@@ -1,0 +1,1 @@
+For each haltOnce message in code browsers (like `self haltOnce`), I add a button in the gutter to deactivate it by using a metalink.

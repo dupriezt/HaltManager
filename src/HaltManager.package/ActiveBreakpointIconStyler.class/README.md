@@ -1,0 +1,1 @@
+For each breakpoint (all flavours of them, so including break once and break on condition) in a code browser , I add a button in the gutter to deactivate it.

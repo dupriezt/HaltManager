@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "ThomasDupriez 11/28/2017 15:21",
+	"super" : "RBProgramNodeVisitor",
+	"category" : "HaltManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"messageNodeCheckingBlock",
+		"resultMessageNodes"
+	],
+	"name" : "MessageNodeFinder",
+	"type" : "normal"
+}

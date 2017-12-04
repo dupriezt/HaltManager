@@ -1,0 +1,1 @@
+Metalinks attached to ast nodes to mark the positions of inactive breakpoints call the doNotBreak method of my class (which does not do anything) so that they can be distinguished from other metalinks and recognised as what they are.

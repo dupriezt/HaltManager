@@ -1,0 +1,1 @@
+For each inactive breakpoint (all flavours of them, so including inactive break once and inactive break on condition) in a code browser , I add a button in the gutter to reactivate it.

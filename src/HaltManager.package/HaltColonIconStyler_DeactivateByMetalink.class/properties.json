@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "IconStyler",
+	"category" : "HaltManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HaltColonIconStyler_DeactivateByMetalink",
+	"type" : "normal"
+}

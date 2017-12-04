@@ -1,0 +1,3 @@
+accessing
+correspondingActiveBreakpoint: anObject
+	correspondingActiveBreakpoint := anObject

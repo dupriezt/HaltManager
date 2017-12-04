@@ -1,0 +1,1 @@
+For each halt message in code browsers (like `self halt`) that has been deactivated by attaching a metalink to it, I add a button in the gutter to reactivate it.

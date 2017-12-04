@@ -1,0 +1,3 @@
+update on announcement
+handleMethodModified: anAnnouncement
+	self removeInactiveHaltsInMethod: anAnnouncement oldMethod

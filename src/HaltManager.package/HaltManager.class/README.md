@@ -1,0 +1,3 @@
+My method openHaltManager opens a method browser with all the methods containing breakpoints (and their different flavours like break once or break on condition), inactive breakpoints (and flavours), halts (and flavours like haltIf: haltOnCount:, haltOnce...) and inactive halts (and flavours like inactiveHaltIf:, inactiveHaltOnCount:...).
+
+I am also responsible for the HaltManager entry in the Tools section of the world menu

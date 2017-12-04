@@ -1,0 +1,1 @@
+A test case for the HaltManager package

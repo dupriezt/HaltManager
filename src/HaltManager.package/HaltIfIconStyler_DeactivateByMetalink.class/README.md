@@ -1,0 +1,1 @@
+For each haltIf: message in code browsers (like `self haltIf: [true]`), I add a button in the gutter to deactivate it by using a metalink.

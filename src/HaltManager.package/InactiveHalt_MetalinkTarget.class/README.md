@@ -1,0 +1,1 @@
+Metalinks attached to halt (and flavours) ast nodes to erase their bytecode halting the execution call the doNotBreak method of my class (which does not do anything) so that they can be distinguished from other metalinks and recognised as what they are.

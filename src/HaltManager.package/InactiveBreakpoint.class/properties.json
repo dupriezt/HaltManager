@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "ThomasDupriez 11/28/2017 14:24",
+	"super" : "Object",
+	"category" : "HaltManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"allInactiveBreakpoints"
+	],
+	"instvars" : [
+		"correspondingActiveBreakpoint",
+		"link"
+	],
+	"name" : "InactiveBreakpoint",
+	"type" : "normal"
+}

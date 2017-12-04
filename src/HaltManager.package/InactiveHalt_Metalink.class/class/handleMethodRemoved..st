@@ -1,0 +1,3 @@
+update on announcement
+handleMethodRemoved: anAnnouncement
+	self removeInactiveHaltsInMethod: anAnnouncement method

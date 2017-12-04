@@ -1,0 +1,3 @@
+halts and breakpoints
+methodWithHaltSentToOne
+	1halt

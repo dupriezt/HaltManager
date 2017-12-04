@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "ThomasDupriez 11/28/2017 10:28",
+	"super" : "TestCase",
+	"category" : "HaltManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"breakpointsAddedDuringSetupAndTests",
+		"inactiveBreakpointsAddedDuringSetupAndTests"
+	],
+	"name" : "HaltManagerTest",
+	"type" : "normal"
+}

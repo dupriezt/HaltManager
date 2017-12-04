@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "ThomasDupriez 11/28/2017 15:14",
+	"super" : "Object",
+	"category" : "HaltManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"allInactiveHalts"
+	],
+	"instvars" : [
+		"link",
+		"correspondingHaltNode"
+	],
+	"name" : "InactiveHalt_Metalink",
+	"type" : "normal"
+}

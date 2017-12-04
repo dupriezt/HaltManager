@@ -1,0 +1,1 @@
+I provide a method to find message ast nodes satisfying a given condition in a given tree of ast nodes by using a visitor.

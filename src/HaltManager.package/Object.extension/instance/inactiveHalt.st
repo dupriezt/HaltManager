@@ -1,0 +1,2 @@
+*HaltManager
+inactiveHalt

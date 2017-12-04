@@ -1,0 +1,2 @@
+*HaltManager
+inactiveHaltIf: anArgument
