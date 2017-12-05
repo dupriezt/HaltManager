@@ -14,7 +14,7 @@ Metacello new
  HaltManager is accessible via the Tools part of the world menu.  
 ![1_entryinthetoolsmenu](https://user-images.githubusercontent.com/32486709/33613905-2a7cc2a2-d9d6-11e7-8cb7-956dc7b220a3.jpg)
 
-HaltManager shows all the method in the system containing breakpoints (and their flavours like one-time only breakpoints), halts (and their flavours like haltOnce, haltIf:...) as well as deactivated breakpoints and halts (and flavours).
+HaltManager shows all the method in the system containing breakpoints (and their flavours like one-time only breakpoints), halts (and their flavours like haltOnce, haltIf:...) as well as deactivated breakpoints and halts (and flavours).  
 ![2_haltmanagerwindow_initial](https://user-images.githubusercontent.com/32486709/33613913-2e9b59de-d9d6-11e7-944a-7de40071eb67.jpg)
 
 
