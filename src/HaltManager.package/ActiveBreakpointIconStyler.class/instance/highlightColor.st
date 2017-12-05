@@ -1,4 +1,4 @@
 defaults
 highlightColor
-	"This colour is invisible, because the BreakpointIconStyler class is normally already highlighting breakpoints"
-	^(Color red alpha: 0)
+	"Almost completely transparent, but not completely to avoid this bug: https://pharo.fogbugz.com/f/cases/20809/"
+	^(Color red alpha: 0.01)

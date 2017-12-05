@@ -1,4 +1,4 @@
 defaults
 highlightColor
-	"Invisible, since the colouration is already handled by HaltOnCountIconStyler"
-	^(Color red alpha: 0)
+	"Almost completely transparent, but not completely to avoid this bug: https://pharo.fogbugz.com/f/cases/20809/"
+	^(Color red alpha: 0.01)
