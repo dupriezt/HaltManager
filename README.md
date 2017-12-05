@@ -33,6 +33,6 @@ This option is only available for halt messages, and allows to deactivate them b
 ![6_testmethod_deactivatedbyrewriting](https://user-images.githubusercontent.com/32486709/33613922-361ece02-d9d6-11e7-988b-422a150e4f50.jpg)
 
 #### Reactivation
-To reactivate a breakpoint or halt that has been deactivated (regardless of the method used), hover over the red icon in the gutter and click 'reactivate'.  
+To reactivate a breakpoint or halt that has been deactivated, hover over the red icon in the gutter and click the 'Reactivate' or 'Reactivate by rewriting' button.  
 ![5_testmethod_reactivationbymetalink](https://user-images.githubusercontent.com/32486709/33613921-3486e5e8-d9d6-11e7-8f83-d7056fd5a0f1.jpg)
 ![7_testmethod_reactivationbyrewriting](https://user-images.githubusercontent.com/32486709/33613927-38ad3e60-d9d6-11e7-813b-a16a4835f61e.jpg)
