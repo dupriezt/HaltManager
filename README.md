@@ -11,7 +11,7 @@ Metacello new
  ```
  
  ## Usage
- HaltManager is accessible via the Tools part of the world menu.
+ HaltManager is accessible via the Tools part of the world menu.  
 ![1_entryinthetoolsmenu](https://user-images.githubusercontent.com/32486709/33613905-2a7cc2a2-d9d6-11e7-8cb7-956dc7b220a3.jpg)
 
   
