@@ -1,7 +1,8 @@
 # HaltManager
 
 ## Installation
-```Metacello new
+```Smalltalk
+Metacello new
   baseline: 'HaltManager';
   repository: 'github://dupriezt/HaltManager/src';
   load
