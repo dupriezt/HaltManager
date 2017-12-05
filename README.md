@@ -23,15 +23,16 @@ Hovering over the red icon in the gutter will bring up the deactivation options.
 ![3_testmethod_deactivationoptions](https://user-images.githubusercontent.com/32486709/33613917-30829136-d9d6-11e7-8470-f3aade111fd2.jpg)
 
 #### Deactivation by metalink
-Choosing this option will leave the source code intact, but rewrite the underlying bytecode to prevent the node from stopping the execution. Deactivated nodes are be highlighted in blue to signal their condition.
-**Caution:** *If the method is recompiled, the node will no longer be deactivated.*
+Choosing this option will leave the source code intact, but rewrite the underlying bytecode to prevent the node from stopping the execution. Deactivated nodes are be highlighted in blue to signal their condition.  
+**Caution:** *If the method is recompiled, the node will no longer be deactivated.*  
 
 ![4_testmethod_deactivatedbymetalink](https://user-images.githubusercontent.com/32486709/33613920-32b6d5a2-d9d6-11e7-9213-c15fa3a16b2e.jpg)
 
 #### Deactivation by rewriting
-This option is only available for halt messages, and allows to deactivate them by 
+This option is only available for halt messages, and allows to deactivate them by rewriting them in the source code to inactive variants (`halt` becomes `inactiveHalt`, `haltOnce` becomes `inactiveHaltOnce`...).   
 ![6_testmethod_deactivatedbyrewriting](https://user-images.githubusercontent.com/32486709/33613922-361ece02-d9d6-11e7-988b-422a150e4f50.jpg)
 
+#### Reactivation
+To reactivate a breakpoint or halt that has been deactivated (regardless of the method used), hover over the red icon in the gutter and click 'reactivate'.  
 ![5_testmethod_reactivationbymetalink](https://user-images.githubusercontent.com/32486709/33613921-3486e5e8-d9d6-11e7-8f83-d7056fd5a0f1.jpg)
-
 ![7_testmethod_reactivationbyrewriting](https://user-images.githubusercontent.com/32486709/33613927-38ad3e60-d9d6-11e7-813b-a16a4835f61e.jpg)
