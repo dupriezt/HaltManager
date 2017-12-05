@@ -21,7 +21,6 @@ HaltManager shows all the methods in the system that contain breakpoints (and th
 ### Deactivating breakpoints and halts
 Hovering over the red icon in the gutter will bring up the deactivation options. Click the one you would like to use.  
 ![3_testmethod_deactivationoptions](https://user-images.githubusercontent.com/32486709/33613917-30829136-d9d6-11e7-8470-f3aade111fd2.jpg)
-*image_caption*
 
 #### Deactivation by metalink
 Choosing this option will leave the source code intact, but rewrite the underlying bytecode to prevent the node from stopping the execution. Deactivated nodes are be highlighted in blue to signal their condition.  
