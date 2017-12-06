@@ -1,7 +1,7 @@
 # HaltManager
 
 HaltManager provides a window showing all the breakpoints and halt messages of the system, and allows one to toggle them on/off with a simple click. Halt messages can also be toggled via source code rewriting.
-The deactivation/reactivation feature is also available in all code browsers, not only in the HaltManager window.
+The deactivation/reactivation feature is available in all code browsers, not only in the HaltManager window.
 
 ## Installation
 ```Smalltalk
