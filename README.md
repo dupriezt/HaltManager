@@ -24,7 +24,7 @@ Hovering over the red icon in the gutter will bring up the deactivation options.
 ![3_testmethod_deactivationoptions](https://user-images.githubusercontent.com/32486709/33613917-30829136-d9d6-11e7-8470-f3aade111fd2.jpg)
 
 #### 2.1) Deactivation by metalink
-Choosing this option will leave the source code intact, but rewrite the underlying bytecode to prevent the node from stopping the execution. Deactivated nodes are be highlighted in blue to signal their condition.  
+Choosing this option will leave the source code intact, but rewrite the underlying bytecode to prevent the node from stopping the execution. Deactivated nodes are highlighted in blue to signal their condition.  
 **Caution:** *If the method is later recompiled, the node will no longer be deactivated.*  
 
 ![4_testmethod_deactivatedbymetalink](https://user-images.githubusercontent.com/32486709/33613920-32b6d5a2-d9d6-11e7-9213-c15fa3a16b2e.jpg)
