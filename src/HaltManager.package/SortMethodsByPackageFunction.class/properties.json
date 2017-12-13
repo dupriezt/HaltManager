@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ClySortMethodFunction",
+	"category" : "HaltManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SortMethodsByPackageFunction",
+	"type" : "normal"
+}

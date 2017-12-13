@@ -7,4 +7,4 @@ menuCommandOn: aBuilder
 		order: 0.42;
 		iconName: #haltIcon;
 		parent: #Tools;
-		action: [ self openHaltManager ]
+		action: [ self open ]
