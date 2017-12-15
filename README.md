@@ -37,6 +37,3 @@ This option is only available for halt messages, and allows to deactivate them b
 To reactivate a breakpoint or halt that has been deactivated, hover over the red icon in the gutter and click the 'Reactivate' or 'Reactivate by rewriting' button.  
 ![5_testmethod_reactivationbymetalink](https://user-images.githubusercontent.com/32486709/33613921-3486e5e8-d9d6-11e7-8f83-d7056fd5a0f1.jpg)
 ![7_testmethod_reactivationbyrewriting](https://user-images.githubusercontent.com/32486709/33613927-38ad3e60-d9d6-11e7-813b-a16a4835f61e.jpg)
-
-## Known Bug
-Deactivating/reactivating a breakpoint or a halt from the HaltManager window in a method that has the same name as another method displayed in the HaltManager windows results in UI problems (a new tab opens, the method selection pane shows another method than the one that is displayed...). Even if this bug messes the display, it does not affect the features of HaltManager. This is a bug in [calypso](#https://github.com/dionisiydk/Calypso) that will be fixed in the next version.
