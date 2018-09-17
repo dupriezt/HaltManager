@@ -6,10 +6,11 @@ baseline: spec
 		spec baseline: 'Calypso' with: [ 
 				spec repository: 'github://dionisiydk/Calypso'
 		].
-	].
-	spec for: #'common' do: [ 
 		spec package: #'HaltManager' with:[
 			spec requires: { 'Calypso' }.
 		].
+	].
+	spec for: #'common' do: [
+		spec package: #'HaltManager'.
 	]
 	
