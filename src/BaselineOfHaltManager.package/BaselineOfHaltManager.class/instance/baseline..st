@@ -2,7 +2,7 @@ baselines
 baseline: spec
 	<baseline>
 
-	spec for: #'common' do: [
+	spec for: #'pharo6.x' do: [
 		spec
 			baseline: 'Calypso' with: [ 
 				spec repository: 'github://dionisiydk/Calypso' ].
