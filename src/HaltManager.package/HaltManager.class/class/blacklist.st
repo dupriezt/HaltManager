@@ -11,4 +11,15 @@ blacklist
 	{#Object. #openDebugger}.
 	{#ObjectTest. #b}.
 	{#ObjectTest. #b1}.
+	{#ObjectTest. #testHaltIf}.
+	{#ObjectTest. #testHaltOnce}.
+	{#ObjectTest. #testHaltOnCount}.
+	{#ProtoObjectTest. #testIfNilIfNotNil}.
+	{#ProtoObjectTest. #testIfNotNil}.
+	{#ProtoObjectTest. #testIfNotNilIfNil}.
+	{#UndefinedObjectTest. #testHaltIfNil}.
+	{#UndefinedObjectTest. #testIfNil}.
+	{#UndefinedObjectTest. #testIfNilIfNotNil}.
+	{#UndefinedObjectTest. #testIfNotNilIfNil}.
+	{#CodeSimulationTests. #methodWithHalt}.
 	 }
