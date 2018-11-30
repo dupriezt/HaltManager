@@ -23,4 +23,6 @@ blacklist
 	{#UndefinedObjectTest. #testIfNilIfNotNil}.
 	{#UndefinedObjectTest. #testIfNotNilIfNil}.
 	{#CodeSimulationTests. #methodWithHalt}.
+	{#RBRefactoryTestDataApp. #cruft}.
+	{#RBSmalllintTestObject. #codeCruftLeftInMethods}.
 	 }
