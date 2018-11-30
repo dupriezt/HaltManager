@@ -1,4 +1,4 @@
-as yet unclassified
+filtering
 methodIsOnBlacklist: anRGMethodDef
 	^ self blacklist anySatisfy: [:classNameSymbolAndMethodNameSymbol |
 			((anRGMethodDef realClass) = (self environment at: (classNameSymbolAndMethodNameSymbol at: 1))) and: 
