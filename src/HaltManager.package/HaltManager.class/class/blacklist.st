@@ -1,11 +1,14 @@
 as yet unclassified
 blacklist
-	"Array of {class name symbol. method name symbol} arrays"
+	"These methods will not be shown by HaltManager by default. They contain halts but are meant to contain them (for example when testing that executing self halt indeed raises a halt)
+	Format: Array of {class name symbol. method name symbol} arrays"
 	^ { 
 	{#ClyClassWithHalts. #methodWithHalts2}.
 	{#ClyClassWithHalts. #methodWithHalts1}.
 	{#ClyClassWithProblemMethods. #methodWithHalt}.
 	{#ClyClassWithProblemMethods. #methodWithHalt2}.
 	{#GTSUnitExampleFailingTest. #testWithHalt}.
-	
+	{#Object. #openDebugger}.
+	{#ObjectTest. #b}.
+	{#ObjectTest. #b1}.
 	 }
