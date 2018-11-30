@@ -5,6 +5,7 @@ blacklist
 	{#ClyClassWithHalts. #methodWithHalts2}.
 	{#ClyClassWithHalts. #methodWithHalts1}.
 	{#ClyClassWithProblemMethods. #methodWithHalt}.
-	{#ClyClassWithProblemMethods. #methodWithHalt2}
+	{#ClyClassWithProblemMethods. #methodWithHalt2}.
+	{#GTSUnitExampleFailingTest. #testWithHalt}.
 	
 	 }
