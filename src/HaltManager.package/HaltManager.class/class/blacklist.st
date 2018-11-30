@@ -15,9 +15,6 @@ blacklist
 	{#ObjectTest. #testHaltIf}.
 	{#ObjectTest. #testHaltOnce}.
 	{#ObjectTest. #testHaltOnCount}.
-	{#ProtoObjectTest. #testIfNilIfNotNil}.
-	{#ProtoObjectTest. #testIfNotNil}.
-	{#ProtoObjectTest. #testIfNotNilIfNil}.
 	{#UndefinedObjectTest. #testHaltIfNil}.
 	{#UndefinedObjectTest. #testIfNil}.
 	{#UndefinedObjectTest. #testIfNilIfNotNil}.
